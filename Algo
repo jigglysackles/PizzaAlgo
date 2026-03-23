@@ -1,2 +1,5 @@
 1. Decide which business to order from
+1a. Do the thing - this was done on main branch
 2. Decide which type of pizza to order
+2a. this is from the test branch - this wasn't checked out properly the first time.
+2b. actually checked out on test branch.
